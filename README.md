@@ -27,7 +27,7 @@ The calculator GUI is created using Java Swing components.
 The calculator logic is implemented in the Calculator.java class.
 
 ## Result
-![Calculator]("C:\Users\dell\OneDrive\Pictures\Screenshots\calc.png")
+![Calculator]("C:\Users\dell\Downloads\calc.jpg")
 
 
 ## Acknowledgements
